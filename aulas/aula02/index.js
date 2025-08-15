@@ -1,2 +1,2 @@
 console.log("API está rodando");
-console.log("API esta vai")
+console.log("API esta off")
