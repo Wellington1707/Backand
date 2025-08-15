@@ -1,0 +1,22 @@
+{
+  "contatos": [
+    {
+      "nome": "Wellington Marcos",
+      "email": "wmf@gmail.com",
+      "telefone": "6199999999",
+      "id": "b292",
+      "endereco": "quadra 3 conj d casa 999"
+    },
+    {
+      "id": "e889",
+      "nome": "Helo",
+      "email": "helo@gmail.com"
+    },
+    {
+      "id": "e645",
+      "nome": "karol",
+      "email": "karol@gmail.com",
+      "telefone": "6199999999"
+    }
+  ]
+}
