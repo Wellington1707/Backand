@@ -1,6 +1,6 @@
 {
-  "name": "pratica-ok",
-  "version": "3.3.3",
+  "name": "prat",
+  "version": "4.3.3",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
