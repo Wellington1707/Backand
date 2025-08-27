@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "app",
   "version": "1.0.0",
   "description": "",
@@ -10,4 +11,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
+=======
+  "name": "aula03",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+>>>>>>> b9a560adc816c6e3f5739a04fede3182ab13a7f4
 }
